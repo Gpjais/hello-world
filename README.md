@@ -1,5 +1,12 @@
 # hello-world
-basic
+python basics
 
-HELLO THIS IS GYAN JASISWAL AND I AM lEARNING gITHUB FOR THE FRIST TIME ON DATE 26/03/2020
-AND dUE TO CORONA VIRUS INDIA HAS LOCKDOWN EACH AND EVERY CITY . DON KNOW WHAT TO DO .
+#for printing anything we use 
+print("hello World")
+
+#String/
+in single quote and double quote is same to same there is no char concept in python.
+
+'GYAN' and "GYAN"
+
+
